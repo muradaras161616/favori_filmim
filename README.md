@@ -1,6 +1,6 @@
 # favori_filmim
 
-filim kartı uygulaması Fluuter da yazılmış basit bir uygulama
+filim kartı uygulaması Flutter da yazılmış basit bir uygulama
 
 ## Getting Started
 
